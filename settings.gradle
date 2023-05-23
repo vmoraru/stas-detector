@@ -1,0 +1,3 @@
+rootProject.name = "StasDetectorFX"
+include ':opencv'
+project(':opencv').projectDir = new File('/libraries/opencv')
